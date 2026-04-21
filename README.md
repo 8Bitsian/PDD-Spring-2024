@@ -2,7 +2,7 @@
 
 ℹ️ Coursework and assignments for my Program Design and Development class, including weekly exercises and project submissions.<br/>
 *️⃣ The course requires that I utilize JetBrains [PyCharm](https://www.jetbrains.com/pycharm/) as my IDE.<br/>
-📔 Starting Out with Programming Logic and Design 5E by Tony Gaddis and the [companion website](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sow_pld_5/cw/)<br/>
+📔 I am referencing Starting Out with Programming Logic and Design 5E by Tony Gaddis and the [companion website](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sow_pld_5/cw/)<br/>
 
 📂 Lessons will be listed below:
 - [Lesson 1](./lesson01/) - Introduction to Computers and Programing
